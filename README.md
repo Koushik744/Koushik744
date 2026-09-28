@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=220&section=header&text=Koushik%20Goud&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=CS%20%26%20Cybersecurity%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Builder&descSize=18&descAlignY=55&descColor=ffffff&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <a href="mailto: koushikgoudnagula@gmail.com@gmail.com">
+  <a href="mailto:koushikgoudnagula@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
   <a href="https://github.com/Koushik744">
@@ -206,3 +206,4 @@ Full-stack system built with TypeScript & MySQL. Showcases the architectural dif
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=120&section=footer" width="100%" />
+
